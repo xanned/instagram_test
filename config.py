@@ -1,3 +1,3 @@
-token = '6988707937:AAFCGOKrd172Fx7Ks9y1tF6Pm0mdpUvy7KY'
+token = 'token'
 instagram_username = 'username'
 instagram_password = 'password'
